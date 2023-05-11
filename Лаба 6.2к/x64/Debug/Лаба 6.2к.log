@@ -1,0 +1,5 @@
+﻿  main.cpp
+  set.cpp
+C:\Users\denis\Desktop\Лаба 6.2к\set.cpp(39,17): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Лаба 6.2к.vcxproj -> C:\Users\denis\Desktop\Лаба 6.2к\x64\Debug\Лаба 6.2к.exe
