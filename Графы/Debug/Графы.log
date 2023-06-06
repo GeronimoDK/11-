@@ -1,0 +1,41 @@
+﻿  main (1).cpp
+C:\Users\denis\Desktop\main (1).cpp(399,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\main (1).cpp(233,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\main (1).cpp(232,43): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\main (1).cpp(297,2): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\main (1).cpp(241,19): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\denis\Desktop\main (1).cpp(52,12): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+C:\Users\denis\Desktop\main (1).cpp(52,12): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\Users\denis\Desktop\main (1).cpp(513,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\main (1).cpp(511,1): message : во время компиляции функции-члена класс шаблон "void Graph<int>::BFS(T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\main (1).cpp(334,6): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::BFS(T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\main (1).cpp(526,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\main (1).cpp(541,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\Desktop\main (1).cpp(540,1): message : во время компиляции функции-члена класс шаблон "void Graph<int>::DFS(T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\main (1).cpp(337,6): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::DFS(T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\denis\Desktop\main (1).cpp(554,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Графы.vcxproj -> C:\Users\denis\Desktop\Графы\Debug\Графы.exe
