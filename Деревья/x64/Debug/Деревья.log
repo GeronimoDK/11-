@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\denis\desktop\main.cpp(21): warning C4244: =: преобразование "const double" в "int", возможна потеря данных
+c:\users\denis\desktop\main.cpp(30): warning C4244: =: преобразование "const double" в "int", возможна потеря данных
+c:\users\denis\desktop\main.cpp(51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\denis\desktop\main.cpp(159): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+c:\users\denis\desktop\main.cpp(180): warning C4244: аргумент: преобразование "const double" в "const int", возможна потеря данных
+c:\users\denis\desktop\main.cpp(400): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\denis\desktop\main.cpp(402): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Деревья.vcxproj -> C:\Users\denis\Desktop\Деревья\x64\Debug\Деревья.exe
